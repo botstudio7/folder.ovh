@@ -11,7 +11,7 @@ def calculate_folder_size(folder_path):
 
 def main():
     # Prompt user for folder path
-    print("Script powered by")
+    print("Script powered by folder.ovh")
     folder_path = input("Enter the folder path: ")
 
     # Ensure the folder path ends with a backslash
